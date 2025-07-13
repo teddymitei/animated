@@ -17,9 +17,9 @@ const About = () => {
             className="absolute scale-[1.75] -right-[5rem] -top-[1rem] md:scale-[3] md:left-50 md:inset-y-10 lg:scale-[2.5]"
           />
           <div className="z-10">
-            <p className="headtext">Hi, I'm Ali Sanati</p>
+            <p className="headtext">Hi, I'm Teddy Mitei</p>
             <p className="subtext">
-              Over the last 4 years, I developed my frontend and backend dev
+              Over the last 3 years, I developed my frontend and backend dev
               skills to deliver dynamic and software and web applications.
             </p>
           </div>
@@ -81,7 +81,7 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headtext">Time Zone</p>
             <p className="subtext">
-              I'm based in Mars, and open to remote work worldwide
+              I'm based in Kenya, and open to remote work worldwide
             </p>
           </div>
           <figure className="absolute left-[30%] top-[10%]">
