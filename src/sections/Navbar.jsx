@@ -19,7 +19,7 @@ function Navigation() {
         </a>
       </li>
       <li className="nav-li">
-        <a className="nav-link" href="#contact">
+        <a className="nav-link" href="#footer">
           Contact
         </a>
       </li>
