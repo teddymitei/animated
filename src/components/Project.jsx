@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import ProjectDetails from "./ProjectDetails";
 
 const Project = ({
@@ -11,12 +11,33 @@ const Project = ({
   setPreview,
 }) => {
   const [isHidden, setIsHidden] = useState(false);
+  const [isDesktop, setIsDesktop] = useState(false);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsDesktop(window.innerWidth >= 640); // Tailwind 'sm' breakpoint
+    };
+
+    handleResize(); // Set initially
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+
+  const handleMouseEnter = () => {
+    if (isDesktop) setPreview(image);
+  };
+
+  const handleMouseLeave = () => {
+    if (isDesktop) setPreview(null);
+  };
+
   return (
     <>
-      <div id="work"
+      <div
+        id="work"
         className="flex-wrap items-center justify-between py-10 space-y-14 sm:flex sm:space-y-0"
-        onMouseEnter={() => setPreview(image)}
-        onMouseLeave={() => setPreview(null)}
+        onMouseEnter={handleMouseEnter}
+        onMouseLeave={handleMouseLeave}
       >
         <div>
           <p className="text-2xl">{title}</p>
