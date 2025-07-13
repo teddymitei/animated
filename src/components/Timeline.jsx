@@ -45,6 +45,7 @@ export const Timeline = ({ data }) => {
             <div className="relative w-full pl-20 pr-4 md:pl-4">
               <div className="block mb-4 text-2xl font-bold text-left text-neutral-300 md:hidden ">
                 <h3>{item.date}</h3>
+                <h3>{item.title}</h3>
                 <h3>{item.job}</h3>
               </div>
               {item.contents.map((content, index) => (
