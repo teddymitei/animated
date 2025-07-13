@@ -7,8 +7,6 @@ export const myProjects = [
     subDescription: [
       "Empowers employees to handle minor technical issues independently using intelligent assistants.",
       "Increases overall workplace productivity by minimizing reliance on IT support for routine problems.",
-      "Streamlines internal support processes through AI-driven diagnostics and troubleshooting tools.",
-      "Enhances employee autonomy and confidence with guided, real-time AI solutions.",
     ],
     href: "https://github.com/teddymitei/AI-CHATBOT",
     logo: "",
@@ -44,8 +42,6 @@ export const myProjects = [
     subDescription: [
       "Designed a responsive and visually appealing e-commerce front-end using modern UI principles.",
       "Developed user-friendly navigation menus for seamless browsing and improved user experience.",
-      "Integrated dynamic filtering, sorting, and category navigation for efficient product discovery.",
-      "Focused on user-centric design by optimizing loading times, touch interactions, and clarity of calls-to-action.",
     ],
     href: "https://redstore2000.vercel.app/",
     logo: "",
