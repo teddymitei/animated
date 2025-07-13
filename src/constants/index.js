@@ -1,37 +1,37 @@
 export const myProjects = [
   {
     id: 1,
-    title: "E-commerce Platform",
+    title: "DIY IT Support System",
     description:
-      "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
+      "Incorporates AI models with the primary goal of reducing downtime by empowering employees with the capability of solving simple technical issues thereby increasing productivity in the workplace.",
     subDescription: [
-      "Built a scalable application with ASP.NET Core MVC, integrating global platforms like Amazon for domestic delivery.",
-      "Implemented secure authentication and database management using ASP.NET Core Identity and Entity Framework Core.",
-      "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
-      "Added payment systems, localization, and product filtering for functionality improvements.",
+      "Empowers employees to handle minor technical issues independently using intelligent assistants.",
+      "Increases overall workplace productivity by minimizing reliance on IT support for routine problems.",
+      "Streamlines internal support processes through AI-driven diagnostics and troubleshooting tools.",
+      "Enhances employee autonomy and confidence with guided, real-time AI solutions.",
     ],
-    href: "",
+    href: "https://github.com/teddymitei/AI-CHATBOT",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: "/assets/projects/accessories.png",
     tags: [
       {
         id: 1,
-        name: "C#",
+        name: "HTML",
         path: "/assets/logos/csharp.svg",
       },
       {
         id: 2,
-        name: ".Net",
+        name: "PHP",
         path: "/assets/logos/dotnet.svg",
       },
       {
         id: 3,
-        name: "Ef Core",
+        name: "Flask",
         path: "/assets/logos/efcore.png",
       },
       {
         id: 4,
-        name: "TailwindCSS",
+        name: "Python",
         path: "/assets/logos/tailwindcss.svg",
       },
     ],
