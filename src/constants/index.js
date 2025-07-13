@@ -47,7 +47,7 @@ export const myProjects = [
       "Integrated dynamic filtering, sorting, and category navigation for efficient product discovery.",
       "Focused on user-centric design by optimizing loading times, touch interactions, and clarity of calls-to-action.",
     ],
-    href: "",
+    href: "https://redstore2000.vercel.app/",
     logo: "",
     image: "/assets/projects/auth-system.png",
     tags: [
@@ -84,7 +84,7 @@ export const myProjects = [
       "Designed responsive UI components with Tailwind CSS for an enhanced UX.",
       "Integrated SQLite for efficient client-side database storage.",
     ],
-    href: "",
+    href: "https://church2000.vercel.app/",
     logo: "",
     image: "/assets/projects/blazor-app.png",
     tags: [
@@ -121,7 +121,7 @@ export const myProjects = [
       "Utilized modern web technologies to ensure responsive design and fast performance.",
       "Integrated third-party APIs for real-time travel information and booking options.",
     ],
-    href: "",
+    href: "https://triptok2000.vercel.app/",
     logo: "",
     image: "/assets/projects/game-engine.png",
     tags: [
@@ -158,7 +158,7 @@ export const myProjects = [
       "Created interactive elements using JavaScript for enhanced user engagement.  ",
       "Optimized the website for performance and cross-browser compatibility.",
     ],
-    href: "",
+    href: "https://edufold2000.vercel.app/",
     logo: "",
     image: "/assets/projects/wordpress-theme.png",
     tags: [
@@ -195,7 +195,7 @@ export const myProjects = [
       "Utilized modern web technologies to ensure a seamless user experience across devices.",
       "Focused on performance optimization and accessibility standards.",
     ],
-    href: "",
+    href: "https://staybnb2000.vercel.app/",
     logo: "",
     image: "/assets/projects/elearning.png",
     tags: [
