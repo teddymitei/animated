@@ -3,7 +3,6 @@ import emailjs from "@emailjs/browser";
 import Alert from "../components/Alert";
 import { Particles } from "../components/Particles";
 const Contact = () => {
-  const grid2Container = useRef();
   const [formData, setFormData] = useState({
     name: "",
     email: "",
