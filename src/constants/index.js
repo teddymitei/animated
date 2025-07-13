@@ -265,8 +265,8 @@ export const experiences = [
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
+    title: "Information Technology Specialist",
+    job: "Livewave Technology Services",
     date: "2024 June-Present",
     contents: [
       "Diagnosing and troubleshooting issues in CPUs, laptops, and desktops.",
