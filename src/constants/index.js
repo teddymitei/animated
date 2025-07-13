@@ -38,32 +38,32 @@ export const myProjects = [
   },
   {
     id: 2,
-    title: "Authentication & Authorization System",
+    title: "E-Commerce Web App",
     description:
-      "A secure authentication and authorization system using Auth0 for seamless user management.",
+      "An e-commerce website front-end design with engaging product displays and user-friendly navigation menus.",
     subDescription: [
-      "Integrated Auth0 for authentication, supporting OAuth, JWT, and multi-factor authentication.",
-      "Implemented role-based access control (RBAC) for fine-grained user permissions.",
-      "Developed a React-based frontend with Tailwind CSS for a sleek user experience.",
-      "Connected to a secure SQLite database for user data storage.",
+      "Designed a responsive and visually appealing e-commerce front-end using modern UI principles.",
+      "Developed user-friendly navigation menus for seamless browsing and improved user experience.",
+      "Integrated dynamic filtering, sorting, and category navigation for efficient product discovery.",
+      "Focused on user-centric design by optimizing loading times, touch interactions, and clarity of calls-to-action.",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/auth-system.jpg",
+    image: "/assets/projects/auth-system.png",
     tags: [
       {
         id: 1,
-        name: "Auth0",
+        name: "CSS",
         path: "/assets/logos/auth0.svg",
       },
       {
         id: 2,
-        name: "React",
+        name: "HTML",
         path: "/assets/logos/react.svg",
       },
       {
         id: 3,
-        name: "SQLite",
+        name: "JS",
         path: "/assets/logos/sqlite.svg",
       },
       {
@@ -75,18 +75,18 @@ export const myProjects = [
   },
   {
     id: 3,
-    title: "Blazor Web App",
+    title: "Church Website",
     description:
-      "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
+      "A modern, interactive web application HTML JS AND CSS.",
     subDescription: [
-      "Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.",
+      "Developed a fully interactive Single Page Application (SPA) ",
       "Implemented API interactions using .NET Core for a robust backend.",
       "Designed responsive UI components with Tailwind CSS for an enhanced UX.",
       "Integrated SQLite for efficient client-side database storage.",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/blazor-app.jpg",
+    image: "/assets/projects/blazor-app.png",
     tags: [
       {
         id: 1,
@@ -112,27 +112,27 @@ export const myProjects = [
   },
   {
     id: 4,
-    title: "C++ Game Engine",
+    title: "TripTok",
     description:
-      "A lightweight C++ game engine designed for 2D and 3D game development.",
+      "A travel planning app that helps users discover and plan their trips with ease.",
     subDescription: [
-      "Built a powerful rendering engine using OpenGL and C++.",
-      "Developed a physics engine with collision detection and particle effects.",
-      "Implemented a scripting system for easy game customization.",
-      "Optimized performance with multi-threading and efficient memory management.",
+      "Developed a travel planning app with a focus on user-friendly interfaces and seamless navigation.",
+      "Implemented features for trip discovery, itinerary management, and user reviews.",
+      "Utilized modern web technologies to ensure responsive design and fast performance.",
+      "Integrated third-party APIs for real-time travel information and booking options.",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/game-engine.jpg",
+    image: "/assets/projects/game-engine.png",
     tags: [
       {
         id: 1,
-        name: "C++",
+        name: "HTML5",
         path: "/assets/logos/cplusplus.svg",
       },
       {
         id: 2,
-        name: "C#",
+        name: "CSS3",
         path: "/assets/logos/csharp.svg",
       },
       {
@@ -149,22 +149,22 @@ export const myProjects = [
   },
   {
     id: 5,
-    title: "WordPress Custom Theme",
+    title: "Edufold University Website",
     description:
-      "A fully customizable WordPress theme optimized for performance and SEO.",
+      "A responsive HTML5, CSS3, and JavaScript-based University website with a modern design.",
     subDescription: [
-      "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
-      "Integrated Tailwind CSS for modern styling and UI enhancements.",
-      "Optimized SEO and page speed using Vite.js for fast builds.",
-      "Implemented custom widgets and plugin compatibility for extended functionality.",
+      "Designed a responsive university website using HTML5, CSS3, and JavaScript.",
+      "Implemented a modern design with a focus on user experience and accessibility.",
+      "Created interactive elements using JavaScript for enhanced user engagement.  ",
+      "Optimized the website for performance and cross-browser compatibility.",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/wordpress-theme.jpg",
+    image: "/assets/projects/wordpress-theme.png",
     tags: [
       {
         id: 1,
-        name: "WordPress",
+        name: "JavaScript",
         path: "/assets/logos/wordpress.svg",
       },
       {
@@ -186,18 +186,18 @@ export const myProjects = [
   },
   {
     id: 6,
-    title: "Online Learning Platform",
+    title: "Staybnb",
     description:
-      "A web application that allows users to enroll in courses, watch video lectures, and take quizzes.",
+      "A modern, responsive web application for a fictional Airbnb clone.",
     subDescription: [
-      "Built using Blazor WebAssembly for a seamless SPA experience.",
-      "Implemented video streaming with Azure Media Services.",
-      "Added a quiz system with dynamic question generation and real-time grading.",
-      "Integrated Stripe API for secure payment processing.",
+      "Developed a responsive web application for a fictional Airbnb clone using HTML, CSS, and JavaScript.",
+      "Implemented features such as property listings, booking management, and user profiles.",
+      "Utilized modern web technologies to ensure a seamless user experience across devices.",
+      "Focused on performance optimization and accessibility standards.",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/elearning.jpg",
+    image: "/assets/projects/elearning.png",
     tags: [
       {
         id: 1,
