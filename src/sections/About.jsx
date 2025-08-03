@@ -20,7 +20,7 @@ const About = () => {
             <p className="headtext">Hi, I'm Teddy Mitei</p>
             <p className="subtext">
               Over the last 3 years, I developed my frontend and backend dev
-              skills to deliver dynamic and software and web applications.
+              skills to deliver dynamic software and web applications.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
