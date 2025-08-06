@@ -241,7 +241,7 @@ export const experiences = [
   {
     title: "IT&T Intern",
     job: "Kenya Power and Lighting Company",
-    date: "2023 May-2023 August",
+    date: "May 2023-August 2023",
     contents: [
       "Software installation ",
       "Switch configuration ",
@@ -263,7 +263,7 @@ export const experiences = [
   {
     title: "Information Technology Specialist",
     job: "Livewave Technology Services",
-    date: "2024 June-Present",
+    date: "June 2024-Present",
     contents: [
       "Diagnosing and troubleshooting issues in CPUs, laptops, and desktops.",
       "Repairing and replacing faulty components such as hard drives, RAM, and motherboards.",
