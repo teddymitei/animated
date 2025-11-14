@@ -239,7 +239,7 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "IT&T Intern",
+    title: "IT&T Attachee",
     job: "Kenya Power and Lighting Company",
     date: "May 2023-August 2023",
     contents: [
@@ -260,21 +260,7 @@ export const experiences = [
       "Printer preventive and breakdown maintenance",
     ],
   },
- {
-    title: "Information Technology Specialist",
-    job: "Livewave Technology Services",
-    date: "June 2024-Present",
-    contents: [
-      "Diagnosing and troubleshooting issues in CPUs, laptops, and desktops.",
-      "Repairing and replacing faulty components such as hard drives, RAM, and motherboards.",
-      "Resolving both hardware and software problems effectively.",
-      "Performing replacements of various computer components, such as displays and keyboards",
-      "Ensuring all repairs are completed to a high standard and within the specified time frame.",
-      "Selling laptops, desktops, and other computer accessories.",
-      "Providing excellent customer service and support.",
-      "Maintaining accurate records of repairs and sales transactions.",
-    ],
-  },
+
 
   
 ];
